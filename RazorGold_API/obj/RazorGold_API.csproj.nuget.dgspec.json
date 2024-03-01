@@ -1,26 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tamhoang/Projects/RazorGold/RazorGold_API/RazorGold_API.csproj": {}
+    "D:\\NET CORE\\RazorGold\\RazorGold_API\\RazorGold_API.csproj": {}
   },
   "projects": {
-    "/Users/tamhoang/Projects/RazorGold/RazorGold_API/RazorGold_API.csproj": {
+    "D:\\NET CORE\\RazorGold\\RazorGold_API\\RazorGold_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tamhoang/Projects/RazorGold/RazorGold_API/RazorGold_API.csproj",
+        "projectUniqueName": "D:\\NET CORE\\RazorGold\\RazorGold_API\\RazorGold_API.csproj",
         "projectName": "RazorGold_API",
-        "projectPath": "/Users/tamhoang/Projects/RazorGold/RazorGold_API/RazorGold_API.csproj",
-        "packagesPath": "/Users/tamhoang/.nuget/packages/",
-        "outputPath": "/Users/tamhoang/Projects/RazorGold/RazorGold_API/obj/",
+        "projectPath": "D:\\NET CORE\\RazorGold\\RazorGold_API\\RazorGold_API.csproj",
+        "packagesPath": "C:\\Users\\tam.hoang\\.nuget\\packages\\",
+        "outputPath": "D:\\NET CORE\\RazorGold\\RazorGold_API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/tamhoang/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\tam.hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,8 +54,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

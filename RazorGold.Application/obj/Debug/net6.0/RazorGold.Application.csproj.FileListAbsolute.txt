@@ -1,0 +1,15 @@
+D:\NET CORE\RazorGold\RazorGold.Application\bin\Debug\net6.0\RazorGold.Application.deps.json
+D:\NET CORE\RazorGold\RazorGold.Application\bin\Debug\net6.0\RazorGold.Application.dll
+D:\NET CORE\RazorGold\RazorGold.Application\bin\Debug\net6.0\RazorGold.Application.pdb
+D:\NET CORE\RazorGold\RazorGold.Application\bin\Debug\net6.0\RazorGold.Domain.dll
+D:\NET CORE\RazorGold\RazorGold.Application\bin\Debug\net6.0\RazorGold.Domain.pdb
+D:\NET CORE\RazorGold\RazorGold.Application\obj\Debug\net6.0\RazorGold.Application.csproj.AssemblyReference.cache
+D:\NET CORE\RazorGold\RazorGold.Application\obj\Debug\net6.0\RazorGold.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET CORE\RazorGold\RazorGold.Application\obj\Debug\net6.0\RazorGold.Application.AssemblyInfoInputs.cache
+D:\NET CORE\RazorGold\RazorGold.Application\obj\Debug\net6.0\RazorGold.Application.AssemblyInfo.cs
+D:\NET CORE\RazorGold\RazorGold.Application\obj\Debug\net6.0\RazorGold.Application.csproj.CoreCompileInputs.cache
+D:\NET CORE\RazorGold\RazorGold.Application\obj\Debug\net6.0\RazorGold.Application.csproj.CopyComplete
+D:\NET CORE\RazorGold\RazorGold.Application\obj\Debug\net6.0\RazorGold.Application.dll
+D:\NET CORE\RazorGold\RazorGold.Application\obj\Debug\net6.0\refint\RazorGold.Application.dll
+D:\NET CORE\RazorGold\RazorGold.Application\obj\Debug\net6.0\RazorGold.Application.pdb
+D:\NET CORE\RazorGold\RazorGold.Application\obj\Debug\net6.0\ref\RazorGold.Application.dll
