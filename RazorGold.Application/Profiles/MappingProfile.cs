@@ -1,5 +1,7 @@
 ﻿using AutoMapper;
-using RazorGold.Application.DTOs;
+using RazorGold.Application.DTOs.Customer;
+using RazorGold.Application.DTOs.Order;
+using RazorGold.Application.DTOs.Product;
 using RazorGold.Domain;
 using System;
 using System.Collections.Generic;

@@ -8,10 +8,35 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\RazorGold.Product\RazorGold.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Features\" />
+    <None Remove="Features\Customer\" />
+    <None Remove="Features\Customer\Handlers\" />
+    <None Remove="Features\Customer\Requests\" />
+    <None Remove="Features\Customer\Handlers\Commands\" />
+    <None Remove="Features\Customer\Handlers\Queries\" />
+    <None Remove="Features\Customer\Requests\Commands\" />
+    <None Remove="Features\Customer\Requests\Queries\" />
+    <None Remove="DTOs\Customer\" />
+    <None Remove="DTOs\Order\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Features\" />
+    <Folder Include="Features\Customer\" />
+    <Folder Include="Features\Customer\Handlers\" />
+    <Folder Include="Features\Customer\Requests\" />
+    <Folder Include="Features\Customer\Handlers\Commands\" />
+    <Folder Include="Features\Customer\Handlers\Queries\" />
+    <Folder Include="Features\Customer\Requests\Commands\" />
+    <Folder Include="Features\Customer\Requests\Queries\" />
+    <Folder Include="DTOs\Customer\" />
+    <Folder Include="DTOs\Order\" />
+  </ItemGroup>
 </Project>

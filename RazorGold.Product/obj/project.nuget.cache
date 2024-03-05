@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VIvWRbjCNeDi+BPgkUJ27qEc4+yLexrtIdWy2rciTYlgEdzC0shMhFXfXQSG23wKCw6L9kFzBKGD2VfC7R/EZg==",
+  "dgSpecHash": "lEKLK48WoKaNpmW5H5Yi1IAz3O4wMoMgNg7x7Q/sbJd4OsbTci43Q53UP5FaU2E+PQOifB5vs8DbppnNO+9KYQ==",
   "success": true,
-  "projectFilePath": "D:\\NET CORE\\RazorGold\\RazorGold.Product\\RazorGold.Domain.csproj",
+  "projectFilePath": "/Users/tamhoang/Projects/RazorGold/RazorGold.Product/RazorGold.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

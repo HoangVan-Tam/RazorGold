@@ -8,30 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tam.hoang\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/tamhoang/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NET CORE\\RazorGold\\RazorGold.Product\\RazorGold.Domain.csproj",
+      "projectUniqueName": "/Users/tamhoang/Projects/RazorGold/RazorGold.Product/RazorGold.Domain.csproj",
       "projectName": "RazorGold.Domain",
-      "projectPath": "D:\\NET CORE\\RazorGold\\RazorGold.Product\\RazorGold.Domain.csproj",
-      "packagesPath": "C:\\Users\\tam.hoang\\.nuget\\packages\\",
-      "outputPath": "D:\\NET CORE\\RazorGold\\RazorGold.Product\\obj\\",
+      "projectPath": "/Users/tamhoang/Projects/RazorGold/RazorGold.Product/RazorGold.Domain.csproj",
+      "packagesPath": "/Users/tamhoang/.nuget/packages/",
+      "outputPath": "/Users/tamhoang/Projects/RazorGold/RazorGold.Product/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tam.hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/tamhoang/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -55,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
       }
     }
   }

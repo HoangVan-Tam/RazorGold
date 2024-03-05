@@ -1,20 +1,65 @@
-﻿<Properties StartupConfiguration="{5623E8E1-B377-4DD8-A156-E9B5ABD4F31F}|Default">
+﻿<Properties>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorGold.Application/DTOs/Order/OrderDetailDto.cs">
+    <Files>
+      <File FileName="RazorGold.Application/ApplicationServiceRegistration.cs" Line="11" Column="32" />
+      <File FileName="RazorGold.Application/Features/Customer/Requests/GetCustomerListRequests.cs" Line="3" Column="42" />
+      <File FileName="RazorGold.Application/Features/Customer/Handlers/Queries/GetCustomerListRequestHandler.cs" Line="4" Column="42" />
+      <File FileName="RazorGold.Application/Features/Customer/Requests/GetCustomerDetailRequest.cs" Line="7" Column="51" />
+      <File FileName="RazorGold.Application/Features/Customer/Handlers/Queries/GetCustomerDetailRequestHandler.cs" Line="4" Column="43" />
+      <File FileName="RazorGold.Application/Profiles/MappingProfile.cs" Line="12" Column="41" />
+      <File FileName="RazorGold.Application/DTOs/ProductDto.cs" Line="16" Column="71" />
+      <File FileName="RazorGold.Application/DTOs/ProductDetailDto.cs" Line="18" Column="37" />
+      <File FileName="RazorGold.Application/DTOs/CustomerDto.cs" Line="18" Column="23" />
+      <File FileName="RazorGold.Product/Product.cs" Line="14" Column="2" />
+      <File FileName="RazorGold.Product/ProductDetail.cs" Line="21" Column="102" />
+      <File FileName="RazorGold.Application/DTOs/Order/OrderDetailDto.cs" Line="14" Column="2" />
+      <File FileName="RazorGold.Product/Customer.cs" Line="14" Column="1" />
+      <File FileName="RazorGold.Application/DTOs/Order/OrderDto.cs" Line="9" Column="1" />
+      <File FileName="RazorGold.Product/OrderDetail.cs" Line="14" Column="1" />
+      <File FileName="RazorGold.Product/Order.cs" Line="30" Column="10" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RazorGold" expanded="True" selected="True">
-            <Node name="RazorGold_API" expanded="True" />
+          <Node name="RazorGold" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="RazorGold.Application">
+                  <Node name="DTOs" expanded="True">
+                    <Node name="Common" expanded="True" />
+                    <Node name="Customer" expanded="True" />
+                    <Node name="Order" expanded="True">
+                      <Node name="OrderDetailDto.cs" selected="True" />
+                    </Node>
+                    <Node name="Product" expanded="True" />
+                  </Node>
+                  <Node name="Features" expanded="True">
+                    <Node name="Customer" expanded="True">
+                      <Node name="Handlers" expanded="True">
+                        <Node name="Queries" expanded="True" />
+                      </Node>
+                      <Node name="Requests" expanded="True">
+                        <Node name="Queries" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                  <Node name="Persistence" expanded="True" />
+                  <Node name="Profiles" expanded="True" />
+                </Node>
+                <Node name="RazorGold.Domain">
+                  <Node name="Common" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.RazorGold__API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
